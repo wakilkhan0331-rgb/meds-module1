@@ -1,1 +1,2 @@
 Day 1: Introduction to Linux Shell and basic commands
+Adding new details for Exercise 4 testing.
